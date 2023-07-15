@@ -1,0 +1,5 @@
+black
+griffe < 0.32.0
+mkdocs
+mkdocs-material
+mkdocstrings[python]
